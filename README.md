@@ -1,4 +1,5 @@
 # BlockGames Task 5
+
 ## Create a simple user UI/Frontend that interacts with a staking/vesting contract
 
 ## Prerequisites:
@@ -23,3 +24,5 @@ Note: Use any framework between hardhat and truffle. Any framework outside of th
 TTStaking Contract address: https://rinkeby.etherscan.io/address/0x0d0b50C583053594b5E2dB6a8D9E3c30cd847658
 
 Staking UI: https://stk-token-staking.netlify.app/
+
+_(I had earlier pushed only the smart contract as no particular code was suggested, but was later told to push the frontend code too. Hence, the time difference.)_
